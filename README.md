@@ -10,6 +10,7 @@ The repository contains bottom up approach to normalize covid vaccination certif
 ### Vaccine Certificate.sql: 
   Contains all the sql data definition and data control commands
 
-### ERD vaccineCert.png: contains the following ER diagram
+### ERD vaccineCert.png: 
+  contains the following ER diagram
 
 ![ERD Vaccine Certificate](https://github.com/ArunitaYen/CowinCretificateNormalization/blob/main/ERD%20vaccineCert.PNG)
